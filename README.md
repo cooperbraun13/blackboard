@@ -1,6 +1,6 @@
 # Blackboard
 
-A simple blackboard app for basic use—sketch ideas, work through problems, or jot quick notes. Nothing fancy, just a black canvas and a white pen.
+A simple blackboard app for basic use. Sketch ideas, work through problems, or jot quick notes. Nothing fancy, just a black canvas and a white pen.
 
 ## Controls
 
